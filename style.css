@@ -1,0 +1,62 @@
+body {
+  background: url(./images/background.jpg);
+  margin: 0px;
+  font-family: 'Franklin Gothic Medium';
+}
+.header {
+  background-color: #D2638D;
+  text-align: center;
+}
+.title-row {
+  margin-top: 42px;
+  text-align: center;
+  margin-bottom: 21px;
+}
+.title-row img {
+	width: 15px;
+	height: auto;
+}
+.instructions-title {
+  display: inline;
+  font-size: 18px;
+  color: #F8F2FE;
+  font-family: 'Work Sans';
+}
+.instructions-row {
+  margin: 0 auto;
+  width: 400px;
+}
+.instructions-number {
+  padding-right: 25px;
+  font-family: 'Work Sans';
+  font-size: 36px;
+  color: #D2638D;
+}
+.instructions-text {
+  padding: 10px;
+  font-family: 'Work Sans';
+  font-size: 14px;
+  color: #F8F2FE;
+}
+.door-row {
+  text-align: center;
+  margin-top: 55px;
+  margin-bottom: 75px;
+}
+.door-frame {
+  cursor: pointer;
+  padding: 10px;
+}
+.start-row {
+  margin: auto;
+  width: 120px;
+  height: 43px;
+  font-family: 'Work Sans';
+  background-color: #D2638D;
+  padding-top: 18px;
+  font-size: 18px;
+  text-align: center;
+  color: #F8F2FE;
+  margin-bottom: 21px;
+  cursor: pointer;
+}
